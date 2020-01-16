@@ -23,4 +23,4 @@ You may also want to build and run this project in docker container
 If successful, you will see something like this:
 
 
-by NaxAlpha/gpt-2xy
+by NaxAlpha
